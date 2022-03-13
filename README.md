@@ -1,3 +1,5 @@
+
+![BCS_Banner](BCS-banner.png)
 BlueCapeSecurity - Blue Team platform for cybersecurity and DFIR heroes  
 
 https://bluecapesecurity.com/

@@ -1,8 +1,11 @@
+# BlueCapeSecurity
+**Career and Training Portal for Cyber Security and DFIR Heroes**
 
-![BCS_Banner](BCS-banner-60-filled.png)
-BlueCapeSecurity - Blue Team platform for cybersecurity and DFIR heroes  
+![BCS_Banner](BCS_banner.png)
 
-https://bluecapesecurity.com/
+[bluecapesecurity.com](https://bluecapesecurity.com/)
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bluecapesec.svg?style=social&label=Follow%20%40bluecapesec)](https://twitter.com/bluecapesec)
 
 <!---
 bluecapesecurity/bluecapesecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
